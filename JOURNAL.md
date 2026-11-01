@@ -4,7 +4,7 @@ author: "Sethu Manigandan Ramu"
 description: "A laser engraver that will be simple to build for all."
 created_at: "2026-03-20"
 ---
-# October 26: The birth of Hepheastus
+# October 26: The birth of Hepheastus (Please Note: My journal will be updated weekly (with day-by-day descriptions and accurate timing as everything is logged into a gdoc))
 
 Today I decided to start my laser engraver project. I was down because I couldn't get my halflife project done in time for week 3, so decided to do this instead. I first brainstormed for a bit. After some time, I decided to choose between a laser engraver and a tool changing 3D printer. To create a fair comparison, I briefly decided to research both of the options. To begin with, I started with the tool changing 3D printer. After some time, I found the Stealth Changer, a Voron system for tool changes.
 
