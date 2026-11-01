@@ -53,6 +53,25 @@ Photo of all of my extrusions.
 
 **Total time spent: 1 hour**
 
+# October 30: The frame is complete!
+
+I took a break for an incredibly hard calc test (got a 5!) and because I felt kinda down after realiziing something. To use open gussets for the corners, two pieces need to be 40 mm taller (so the other two will fit)).
+
+<img width="938" height="705" alt="image" src="https://github.com/user-attachments/assets/16fdb1d2-b8b9-4058-b83a-daf316fa4599" />
+
+Notice how to make a square, two of the pieces need to be shorter than the other, specifically by twice the width of the rectangles. Overall, this shouldn't matter at all and could be fixed with two quick extrusions, but that would give really weird lengths as the lengths are in inches and adding mm to it would give weird measurements. To fix this, I had to start over, make everything in round mm measurements. My laser frame is now 400mm x 400mm. I also imported in my open gussets for binding the extrusions to each other. Now I'm ready to start joints. For those who don't know, joints are how you connect things to each other in assemblies and hybrids in Fusion. There were a lot of issues, and it took like 8 tries to get the joints right. Sometiimes joints wouldn't connect. I realized that this was because some bodies weren't components. I simply had to make them components, and it fiinally worked. I was extremely relieved.
+
+Example of a joint:
+<img width="655" height="447" alt="Screenshot 2026-10-28 163142" src="https://github.com/user-attachments/assets/8849376b-ef38-4c49-a0ca-3fb42dd32274" />
+
+Now unfortunately, I don't know what went wrong, but here was the side view of the frame:
+<img width="720" height="311" alt="Screenshot 2026-10-28 173321" src="https://github.com/user-attachments/assets/bd5ba90f-0d3e-452c-b906-f66f51ca0a12" />
+
+I got tired and called it a day.
+
+**Total time spent: 1.75 hours**
+
+
 
 
 
