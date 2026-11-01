@@ -40,6 +40,22 @@ Galvo systems do look interesting, so I might build one in the future for a diff
 
 **Total time spent: 1 hour**
 
+# October 28: The start of the frame
+
+I've taken IED (Introduction to Engineering and Design) at my school, and we used Fusion 360. I kinda don't like Onshape, and find Fusion better, so I'll be using Fusion. I first had to download Fusion. My old computer only had 8 gb ram, so I couldn't use it. But now I can! Fusion install went smoothly. Now, it's time for cadding. This was an absolute PAIN to start. I first had to find models for 2020 extrusions, which I'll be using. Fusion allows you to immport any part
+ from McMaster-Carr right in the application. However, the button was faded out. With a bit of research, I found out that you can only use McMaster-Carr parts in an assembly. So, I switched my mode to assembly. However, all McMaster-Carr CAD files only come with one lenth, which I didn't want. I planned to have my frame be 16 inches by 16 inches, but the cad only came in 12 inches. No problem; I'll just extrude the model. For some reason, extruding didn't work. With a bit of research, I switched to hybrid mode, with features of parts design and assembly. After extruding all my material, I realized this project wouldn't be as easy as I thought.
+
+Photo of extruding not showing up on the modify tab:
+<img width="1501" height="1048" alt="Screenshot 2026-10-27 165032" src="https://github.com/user-attachments/assets/db5ab883-4094-4246-895a-ba33582fb119" />
+
+Photo of all of my extrusions.
+<img width="1912" height="1048" alt="Screenshot 2026-10-27 173345" src="https://github.com/user-attachments/assets/c94978f6-4072-49f8-a0fa-7110d50be709" />
+
+**Total time spent: 1 hour**
+
+
+
+
 
   
 
