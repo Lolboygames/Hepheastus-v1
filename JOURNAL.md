@@ -83,6 +83,34 @@ My version, in which I cadded my own motor mounting frames. This was difficult g
 
 **Total time spent: 2 hours**
 
+# November 1: Start the new motion system
+
+This was the most painful entry so far.
+
+First of all, I've caught up with my journal entries!!!
+
+However, the frame was the easy part; nothing could go wrong. Now it's time for the motion system. I deciided to scrap the stationary motors idea as I didn't see much support for it. Instead, I went with two motors attached the x and y axis that move around instead for cheaper and more stable use.
+
+Reference I'm using:
+
+<img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/5491405b-ec5e-4f41-a8e5-16d2b1488a58" />
+
+I started by taking some measurements and cadding one half of my x axis. It'll use 4 wheels and a NEMA 17 motor (48 inches long). The wheels will be rubber with bearings.
+
+<img width="1410" height="847" alt="Screenshot 2026-11-01 180753" src="https://github.com/user-attachments/assets/515e8cdd-d4cd-42c4-b5e7-137276e93be0" />
+
+This is a bare bone model just to get an idea, but it still took suprisingly long to CAD, with some math involved as well to get the correct placement of the wheel rotation mechanism. Additonally, I made some legs for the engraver (need to add screw holes).
+
+<img width="1412" height="797" alt="Screenshot 2026-11-01 194903" src="https://github.com/user-attachments/assets/ab07c8b8-bbee-4e22-8c9f-0e1af1983c6d" />
+
+**Total time spent: 3 hours**
+
+
+
+
+
+
+
 
 
 
