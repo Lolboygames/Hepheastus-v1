@@ -71,6 +71,25 @@ I got tired and called it a day.
 
 **Total time spent: 1.75 hours**
 
+# October 31: Fix Frame + Motor Frames
+
+I decided to redo the joints due to the slanted extrusion. After redoing it, I decided to research a bit more on my gantry system. For now, I have chosen a 4 motor system for just one axis, and then two for the other. I derived this from this demo video thumbnail, which only uses two motors, but I added another two for speed.
+
+<img width="515" height="388" alt="image" src="https://github.com/user-attachments/assets/8480151c-dba0-41b9-952f-3de2cf9c0d88" />
+
+My version, in which I cadded my own motor mounting frames. This was difficult getting measurements right, but after a while, I realized sketches could be made on the motor and I just traced around the parts.
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-28 215849" src="https://github.com/user-attachments/assets/980ed243-e183-4c5a-a115-26de3813f639" />
+
+**Total time spent: 2 hours**
+
+
+
+
+
+
+
+
 
 
 
